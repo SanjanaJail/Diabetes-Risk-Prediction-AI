@@ -37,6 +37,7 @@ To ensure transparency and trust, **SHAP (SHapley Additive exPlanations)** is us
 - Identify the most influential features
 - Explain individual risk predictions
 - Support interpretability in healthcare-focused ML systems
+- 
 ## 🛠️ Technologies Used
 - Python  
 - Scikit-learn  
@@ -44,6 +45,7 @@ To ensure transparency and trust, **SHAP (SHapley Additive exPlanations)** is us
 - SHAP  
 - Matplotlib / Seaborn  
 - Streamlit
+- 
 ##  Real-World Impact
 This project demonstrates how machine learning can:
 - Assist early diabetes risk screening
